@@ -1,2 +1,0 @@
-# hazimete_grpc
-はじめてのgRPC
